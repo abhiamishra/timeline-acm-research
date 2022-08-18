@@ -32,10 +32,10 @@ periods:
     - Task One : "Introducing dataset"
     - Task Two : "Access to dataset and nature of dataset"
     - Task Three : "Introduction to COCO image processing and how to preprocesss COCO"
-      - What is COCO Dataset : [COCO Dataset](https://blog.roboflow.com/coco-dataset/)
-      - What is COCO : [What is COCO](https://datagen.tech/guides/image-datasets/ms-coco-dataset-using-it-in-your-computer-vision-projects/)
-      - What are COCO Detection Metrics : [Detection Evaluation](https://cocodataset.org/#detection-eval)
-      - Annotation Converters : [Github Link](https://github.com/nikhilgunti/Annotation-Converters)
+    - What is COCO Dataset : [COCO Dataset](https://blog.roboflow.com/coco-dataset/)
+    - What is COCO : [What is COCO](https://datagen.tech/guides/image-datasets/ms-coco-dataset-using-it-in-your-computer-vision-projects/)
+    - What are COCO Detection Metrics : [Detection Evaluation](https://cocodataset.org/#detection-eval)
+    - Annotation Converters : [Github Link](https://github.com/nikhilgunti/Annotation-Converters)
     - Homework : "By next meeting, understand COCO annotations and practice preprocessing COCO format"
   - name: Week Four
     events:
