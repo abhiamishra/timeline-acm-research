@@ -32,20 +32,21 @@ periods:
     - Task One : "Introducing dataset"
     - Task Two : "Access to dataset and nature of dataset"
     - Task Three : "Introduction to COCO image processing and how to preprocesss COCO"
-    - What is COCO Dataset : [COCO Dataset](https://blog.roboflow.com/coco-dataset/)
-    - What is COCO : [What is COCO](https://datagen.tech/guides/image-datasets/ms-coco-dataset-using-it-in-your-computer-vision-projects/)
-    - What are COCO Detection Metrics : [Detection Evaluation](https://cocodataset.org/#detection-eval)
-    - Annotation Converters : [Github Link](https://github.com/nikhilgunti/Annotation-Converters)
+    - What is COCO Dataset : >-
+        <a href="https://blog.roboflow.com/coco-dataset/" target="_blank" rel="noopener" title="COCO Dataset"></a>.
+    - What is COCO : <a href="https://datagen.tech/guides/image-datasets/ms-coco-dataset-using-it-in-your-computer-vision-projects/" target="_blank" rel="noopener" title="What is COCO"></a>.
+    #- What are COCO Detection Metrics : [Detection Evaluation](https://cocodataset.org/#detection-eval)
+    #- Annotation Converters : [Github Link](https://github.com/nikhilgunti/Annotation-Converters)
     - Homework : "By next meeting, understand COCO annotations and practice preprocessing COCO format"
   - name: Week Four
     events:
     - Task One : "Introduction to ResNet and co."
-      - What is Transfer Learning : [Transfer Learning Introduction](https://www.v7labs.com/blog/transfer-learning-guide)
-      - YOLOv7 : [Introduction and Demo of YOLOv7](https://viso.ai/deep-learning/yolov7-guide/)
-        - Demo : [Demo](https://huggingface.co/spaces/akhaliq/yolov7)
-      - How to use YOLOV7 : [Usage of YOLOv7](https://inside-machinelearning.com/en/use-yolov7/)
-        - Official Github Repo for YOLOv7 : [Github Link](https://github.com/wongkinyiu/yolov7)
-      - Keras Pretrained Models : [Multiple Models Available](https://keras.io/api/applications/)
+      #- What is Transfer Learning : [Transfer Learning Introduction](https://www.v7labs.com/blog/transfer-learning-guide)
+      #- YOLOv7 : [Introduction and Demo of YOLOv7](https://viso.ai/deep-learning/yolov7-guide/)
+      #  - Demo : [Demo](https://huggingface.co/spaces/akhaliq/yolov7)
+      #- How to use YOLOV7 : [Usage of YOLOv7](https://inside-machinelearning.com/en/use-yolov7/)
+      #  - Official Github Repo for YOLOv7 : [Github Link](https://github.com/wongkinyiu/yolov7)
+      #- Keras Pretrained Models : [Multiple Models Available](https://keras.io/api/applications/)
     - Task Two : "Continue working on COCO format to understand preprocessing"
     - Homework : "Finish COCO preprocessing and start modelling"
   - name: Week Five
@@ -53,8 +54,8 @@ periods:
     - Task One : Continue work on COCO preprocessing 
     - Task Two : "Work on modelling and producing evaluations from model and comparing them to other models"
     - Task Three : "Introduction to OpenCV to showcase model and results"
-      - Webcam Usage : [Online Documentation](https://opencv.org/)
-      - Sample Code Template : [Github Link](https://github.com/abhiamishra/computer-vision-practice/blob/main/handtrack/handtrack.py)
+    #  - Webcam Usage : [Online Documentation](https://opencv.org/)
+    #  - Sample Code Template : [Github Link](https://github.com/abhiamishra/computer-vision-practice/blob/main/handtrack/handtrack.py)
     - Homework : "Continue working on COCO preprocessing, start on modelling + OpenCV"
   - name: Week Six
     events:
