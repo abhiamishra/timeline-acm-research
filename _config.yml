@@ -41,12 +41,12 @@ periods:
   - name: Week Four
     events:
     - Task One : "Introduction to ResNet and co."
-      - What is Transfer Learning : <a href="https://www.v7labs.com/blog/transfer-learning-guide" target="_blank" rel="noopener"> Tranfer Learning Introduction </a>.
-      - YOLOv7 : <a href="https://viso.ai/deep-learning/yolov7-guide/" target="_blank" rel="noopener"> Introduction and Demo of YOLOV7 </a>.
-      - Demo : < a href=https://huggingface.co/spaces/akhaliq/yolov7 target="_blank" rel="noopener"> Demo </a>
-      - How to use YOLOV7 : <a href=https://inside-machinelearning.com/en/use-yolov7/ target="_blank" rel="noopener"> Usage of YOLOV7 </a>
-      - Official Github Repo for YOLOv7 : <a href=https://github.com/wongkinyiu/yolov7 target="_blank" rel="noopener"> Github Link </a>
-      - Keras Pretrained Models : <a href=https://keras.io/api/applications/ target="_blank" rel="noopener"> Multiple Models Available </a>
+    - What is Transfer Learning : <a href="https://www.v7labs.com/blog/transfer-learning-guide" target="_blank" rel="noopener"> Tranfer Learning Introduction </a>.
+    - YOLOv7 : <a href="https://viso.ai/deep-learning/yolov7-guide/" target="_blank" rel="noopener"> Introduction and Demo of YOLOV7 </a>.
+    - Demo : < a href=https://huggingface.co/spaces/akhaliq/yolov7 target="_blank" rel="noopener"> Demo </a>
+    - How to use YOLOV7 : <a href=https://inside-machinelearning.com/en/use-yolov7/ target="_blank" rel="noopener"> Usage of YOLOV7 </a>
+    - Official Github Repo for YOLOv7 : <a href=https://github.com/wongkinyiu/yolov7 target="_blank" rel="noopener"> Github Link </a>
+    - Keras Pretrained Models : <a href=https://keras.io/api/applications/ target="_blank" rel="noopener"> Multiple Models Available </a>
     - Task Two : "Continue working on COCO format to understand preprocessing"
     - Homework : "Finish COCO preprocessing and start modelling"
   - name: Week Five
