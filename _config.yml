@@ -6,9 +6,9 @@ author: Abhishek A. Mishra
 #linkedin: https://www.linkedin.com/in/guptaneil/
 # Show a link at the top of your timeline to your main personal site
 # Comment this out to disable
-personal_site:
-  url: https://acm-objdetect.gg
-  title: acm-objdetect.gg
+#personal_site:
+  #url: https://acm-objdetect.gg
+  #title: acm-objdetect.gg
 # show today marker at end of timeline
 show_today: true
 
