@@ -24,8 +24,13 @@ periods:
   - name: Week Two
     events:
     - Task One : "Assigning research papers"
+    - Research Paper One : <a href="https://arxiv.org/pdf/1806.11368.pdf" target="_blank" rel="noopener" title="COCO Dataset"> Research Paper One </a>.
+    - Research Paper Two : <a href="https://arxiv.org/pdf/1709.01722.pdf" target="_blank" rel="noopener" title="COCO Dataset"> Research Paper Two </a>.
+    - Research Paper Three : <a href="https://arxiv.org/ftp/arxiv/papers/2203/2203.04822.pdf" target="_blank" rel="noopener" title="COCO Dataset"> Research Paper Three </a>.
     - Task Two : "How to tackle complex image detection"
+    - Complex Image Detection : <a href="https://edepot.wur.nl/454213" target="_blank" rel="noopener" title="COCO Dataset"> Research Paper Three </a>.
     - Task Three : "Introduction to transfer learning"
+    - A Glance At Transfer Learning : <a href="https://lisaong.github.io/mldds-courseware/03_TextImage/transfer-learning.slides.html" target="_blank" rel="noopener" title="COCO Dataset"> Glance at Transfer Learning </a>.
     - Homework : "Next meeting, come back with notes and summarized versions of what you learnt."
   - name: Week Three
     events:
